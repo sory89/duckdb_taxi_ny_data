@@ -2,7 +2,9 @@
 
 DuckDB-powered Streamlit dashboard — every chart is a live SQL query against a local `.duckdb` file. No server, no cloud, no manual download.
 
-![Dashboard](dashboard.png)
+
+<img width="956" height="473" alt="image" src="https://github.com/user-attachments/assets/9341d895-94c7-499b-ad49-7080255197d6" />
+
 
 ## Quick start
 
