@@ -2,6 +2,8 @@
 
 DuckDB-powered Streamlit dashboard — every chart is a live SQL query against a local `.duckdb` file. No server, no cloud, no manual download.
 
+![Dashboard](dashboard.png)
+
 ## Quick start
 
 **Windows (PowerShell)**
@@ -97,6 +99,7 @@ DUCKDBTAXI/
 ├── start.sh          # Unix/WSL launcher
 ├── start.bat         # Windows launcher
 ├── requirements.txt
+├── dashboard.png     # Screenshot
 └── .gitignore        # excludes .venv/ and *.duckdb
 ```
 
